@@ -5,15 +5,12 @@
 
 <p align="center">An interactive visualizer for revenue and expense data.
 </p>
+<p align="center">Live demo at <a href="https://caterpilllar.finance/">caterpilllar.finance</a>
+</p>
 
 ## Homepage
 <p align="center">
     <img src="/public/images/caterpillar-financial002.png" />
-</p>
-
-
-
-<p align="center">Live demo at <a href="https://caterpilllar.finance/">caterpilllar.finance</a>
 </p>
 
 <p align="center">
